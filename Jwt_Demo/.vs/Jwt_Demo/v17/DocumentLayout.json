@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Access And Refresh Token\\Jwt_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AC0FF4-8155-46D8-BD68-6F8311A869EB}|Jwt_Demo\\Jwt_Demo.csproj|d:\\access and refresh token\\jwt_demo\\jwt_demo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AC0FF4-8155-46D8-BD68-6F8311A869EB}|Jwt_Demo\\Jwt_Demo.csproj|solutionrelative:jwt_demo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AC0FF4-8155-46D8-BD68-6F8311A869EB}|Jwt_Demo\\Jwt_Demo.csproj|d:\\access and refresh token\\jwt_demo\\jwt_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AC0FF4-8155-46D8-BD68-6F8311A869EB}|Jwt_Demo\\Jwt_Demo.csproj|solutionrelative:jwt_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AC0FF4-8155-46D8-BD68-6F8311A869EB}|Jwt_Demo\\Jwt_Demo.csproj|d:\\access and refresh token\\jwt_demo\\jwt_demo\\models\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AC0FF4-8155-46D8-BD68-6F8311A869EB}|Jwt_Demo\\Jwt_Demo.csproj|solutionrelative:jwt_demo\\models\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AC0FF4-8155-46D8-BD68-6F8311A869EB}|Jwt_Demo\\Jwt_Demo.csproj|d:\\access and refresh token\\jwt_demo\\jwt_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7AC0FF4-8155-46D8-BD68-6F8311A869EB}|Jwt_Demo\\Jwt_Demo.csproj|solutionrelative:jwt_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AC0FF4-8155-46D8-BD68-6F8311A869EB}|Jwt_Demo\\Jwt_Demo.csproj|d:\\access and refresh token\\jwt_demo\\jwt_demo\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AC0FF4-8155-46D8-BD68-6F8311A869EB}|Jwt_Demo\\Jwt_Demo.csproj|solutionrelative:jwt_demo\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Access And Refresh Token\\Jwt_Demo\\Jwt_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Jwt_Demo\\appsettings.json",
+              "ToolTip": "D:\\Access And Refresh Token\\Jwt_Demo\\Jwt_Demo\\appsettings.json",
+              "RelativeToolTip": "Jwt_Demo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T04:46:05.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Access And Refresh Token\\Jwt_Demo\\Jwt_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Jwt_Demo\\Program.cs",
+              "ToolTip": "D:\\Access And Refresh Token\\Jwt_Demo\\Jwt_Demo\\Program.cs",
+              "RelativeToolTip": "Jwt_Demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:42:32.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Access And Refresh Token\\Jwt_Demo\\Jwt_Demo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Jwt_Demo\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Access And Refresh Token\\Jwt_Demo\\Jwt_Demo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Jwt_Demo\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:40:42.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Access And Refresh Token\\Jwt_Demo\\Jwt_Demo\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Jwt_Demo\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\Access And Refresh Token\\Jwt_Demo\\Jwt_Demo\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Jwt_Demo\\Models\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:39:51.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Access And Refresh Token\\Jwt_Demo\\Jwt_Demo\\Models\\TokenService.cs",
+              "RelativeDocumentMoniker": "Jwt_Demo\\Models\\TokenService.cs",
+              "ToolTip": "D:\\Access And Refresh Token\\Jwt_Demo\\Jwt_Demo\\Models\\TokenService.cs",
+              "RelativeToolTip": "Jwt_Demo\\Models\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:34:44.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
